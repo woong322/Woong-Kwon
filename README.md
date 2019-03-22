@@ -8,15 +8,19 @@ By using a if-eles and Scanner in Java, it makes me to understand what If or ele
 
 -Java Development Kit(JKD) 8th
   1. Go to Java Oracle. (https://www.oracle.com/technetwork/java/javase/downloads/index.html)     
+  ![Capture](https://user-images.githubusercontent.com/48839763/54851096-edddb680-4cb6-11e9-8b1f-faee35970382.PNG)
   2. Download Java Development Kit(JKD) 8th.      
-  3. Install the JDK 8th in the computer.     
+  3. Install the JDK 8th in the computer.
+  ![Capture2](https://user-images.githubusercontent.com/48839763/54851150-0f3ea280-4cb7-11e9-93df-4f1cbb80638b.PNG)
 
 ### To Look up the Code and Fix
 
 -Netbeans IDE 8.2(with JAVA)   
   1. Go to Netbean Site. (https://netbeans.org/downloads/8.2/)     
+  ![Capture1](https://user-images.githubusercontent.com/48839763/54851187-21b8dc00-4cb7-11e9-8b9e-241b69f55d46.PNG)
   2. Download Netbeans IDE 8.2
   3. Install Netbean IDE 8.2 on the computer.
+  ![Capture3](https://user-images.githubusercontent.com/48839763/54851209-2c737100-4cb7-11e9-97a7-7855bc8f5e55.PNG)
   4. Run the Netbeans.
   5. Download Cs232lab3a.java file to in to your computer.
   6. Open the Cs232lab3a.java file from the computer.
